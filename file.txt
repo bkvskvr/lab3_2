@@ -1,3 +1,4 @@
 first
 second
 thirdFeature 1
+Feature 2
